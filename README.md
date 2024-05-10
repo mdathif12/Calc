@@ -301,7 +301,8 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 
-![image](https://github.com/mdathif12/Calc/assets/149365313/a9d543a5-a505-4fe1-992d-20b3cfec8388)
+![Screenshot 2024-05-10 094046](https://github.com/mdathif12/Calc/assets/149365313/95585f29-1b24-473b-99be-c600a4ddd6ac)
+![image](https://github.com/mdathif12/Calc/assets/149365313/2bb58455-62ad-4601-bdf0-1863a9a66b4b)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
