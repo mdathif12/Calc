@@ -271,8 +271,8 @@ Publish the website in the given URL.
     </head>
 <body>
     <div class="calculator-container">
-        <h1>SELVA GANESH R</h1>
-        <h2>REG NO=212223230200</h2>
+        <h1>Mhamed Athif Rahuman </h1>
+        <h2>REG NO=212223220058</h2>
         <div id="result">0</div>
         <button onclick="calculate(event);">7</button>
         <button onclick="calculate(event);">8</button>
